@@ -20,3 +20,4 @@ Python · R · ChIP-seq analysis · Hi-C / 3D genome contact mapping · insulati
 
 - Email: daniel.obaji@nyu.edu
 - LinkedIn: [daniel-obaji-90b9a9139](https://www.linkedin.com/in/daniel-obaji-90b9a9139)
+- Google Scholar: [Daniel Obaji](https://scholar.google.com/citations?user=0Y3J71IAAAAJ&hl=en)
