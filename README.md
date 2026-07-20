@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Obaji 👋
 
-I'm a PhD-trained scientist specializing in genomics and computational analysis. I'm interested in transcription, 3D genome organization, and epigenetics — and how these processes interact and shape one another. I'm also passionate about building tools that make it easier to analyze large biological datasets for health science innovation.
+I'm a PhD-trained scientist specializing in genomics and computational analysis. I'm interested in transcription, 3D genome organization, and epigenetics and how these processes interact and shape one another. I'm also passionate about building tools that make it easier to analyze large biological datasets for health science innovation.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
